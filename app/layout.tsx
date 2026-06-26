@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Entdecke den Code",
+  title: "Entdeckt den Code",
   description:
     "Eine verborgene Mission – nur eingeladene Teilnehmer erhalten Zugriff. Verwende deinen persönlichen QR-Code, um dein Abenteuer zu starten.",
   robots: {
