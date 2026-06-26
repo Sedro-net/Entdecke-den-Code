@@ -34,7 +34,7 @@ export default function LandingPage() {
         <StatusLine>Status: Zugang erforderlich</StatusLine>
       </GlassCard>
 
-      <Footer note=" Secure System" />
+      <Footer note="Secure System" />
     </PageShell>
   );
 }
